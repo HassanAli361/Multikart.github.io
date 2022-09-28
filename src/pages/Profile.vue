@@ -9,7 +9,7 @@
           <div class="bg-white" style="border-radius: 20px">
             <div class="text-center q-pa-md">
               <q-avatar size="130px">
-                <q-img src="~assets/designer.jpg" />
+                <q-img src="~assets/profile.jpg" />
               </q-avatar>
               <div class="text-h6 q-mt-md text-weight-bold">Hassan Ali</div>
               <div class="text-subtitle1 q-mb-md text-weight-light">

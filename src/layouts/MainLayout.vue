@@ -125,11 +125,6 @@ export default {
           name: "Invoice",
           to: "/invoice",
         },
-        {
-          icon: "fas fa-users",
-          name: "Login",
-          to: "/login",
-        },
       ],
     };
   },
