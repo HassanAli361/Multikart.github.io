@@ -12,7 +12,6 @@ const routes = [
       { path: '/reports', component: () => import('src/pages/Reports.vue') },
       { path: '/profile', component: () => import('src/pages/Profile.vue') },
       { path: '/invoice', component: () => import('src/pages/Invoice.vue') },
-       { path: '/login', component: () => import('src/pages/Login.vue') },
     ]
   },
   {
